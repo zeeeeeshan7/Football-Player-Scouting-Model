@@ -54,7 +54,7 @@ Pandas (data processing)
 
 NumPy
 
-Streamlit (if UI exists — remove if not applicable)
+Streamlit
 
 dotenv
 

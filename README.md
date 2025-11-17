@@ -60,20 +60,6 @@ dotenv
 
 Additional dependencies in requirements.txt
 
-📂 Project Structure
-scouting_app/
-│
-├── app.py                 # Main application script
-├── requirements.txt       # All required Python packages
-├── .env                   # Environment variables (ignored in GitHub)
-│
-├── data/                  # Raw & cleaned datasets
-│   ├── gk.csv
-│   ├── df.csv
-│   ├── mf.csv
-│   └── fw.csv
-│
-└── README.md              # Project documentation
 
 ▶️ How to Run the App
 1. Clone the repository

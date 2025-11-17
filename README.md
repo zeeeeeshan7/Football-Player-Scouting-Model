@@ -9,6 +9,7 @@ It combines performance metrics, positional filtering, and custom evaluation mod
 This tool reflects a complete scouting pipeline used in real data science workflows, including data cleaning, merging datasets, weighting metrics, and generating player recommendations.
 
 🎯 Key Features
+
 🔍 1. Player Search & Filtering
 
 Filter by position, league, age, market value, and more
